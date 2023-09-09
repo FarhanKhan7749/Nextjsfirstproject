@@ -6,13 +6,13 @@ function AboutUs() {
     <h1>this is About us page</h1>
     <ul>
       <li>
-        <Link href="aboutus/1">1</Link>
+        <Link href="aboutus/1">Yash</Link>
       </li>
       <li>
-        <Link href="aboutus/2">2</Link>
+        <Link href="aboutus/2">Vaibhav</Link>
       </li>
       <li>
-        <Link href="aboutus/3">3</Link>
+        <Link href="aboutus/3">Suresh</Link>
       </li>
     </ul>
   </Fragment>
